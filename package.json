@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anami-sf/ugly-chat/issues"
   },
-  "homepage": "https://github.com/anami-sf/ugly-chat#readme"
+  "homepage": "https://github.com/anami-sf/ugly-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
